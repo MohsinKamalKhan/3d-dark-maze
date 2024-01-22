@@ -1,4 +1,4 @@
-# dark-way
+# 3D-Dark-Maze
 This is a 3D Realistic Maze Game! In which you have to find 5 mystery balls and shoot them all.
 
 The player has to find a total of 5 balls in a maze and shoot them to win the game.
